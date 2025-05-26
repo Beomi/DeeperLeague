@@ -1,3 +1,8 @@
+Update @ 2025.05
+
+- Add new champions (total 170) matching 25.10 patch (v15.10.1 build)
+
+---
 
 # DeeperLeague - A neural net for detecting champions' positions from a League of Legends minimap image / video
 
